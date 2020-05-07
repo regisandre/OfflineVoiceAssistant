@@ -1,3 +1,3 @@
-# Project name
+# Offline Voice Assistant
 
-Description
+Offline voice assistant
