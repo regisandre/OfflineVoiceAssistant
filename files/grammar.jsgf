@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar francis;
+
+public <francis> = (Francis);
+
+public <hello> = (Bonjour Francis | Hello Francis | Salut Francis);
+
+public <stop> = (T'es qu'un porc Francis | T'es qu'un criminel);
